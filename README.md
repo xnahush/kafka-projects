@@ -1,0 +1,2 @@
+# kafka-projects
+Kafka POCs.
